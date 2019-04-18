@@ -13,15 +13,6 @@ body {
 }
 
 
-
-
-
-
-
-
-
-
-
 /* NAVIGATION: */
 /* Add a black background color to the top navigation */
 nav {
@@ -49,4 +40,19 @@ nav a:hover {
 
 .emphasis {
   background-color: #d9d9d9;
+}
+
+
+.centertext {
+  text-align: center;
+}
+
+.container {
+  /*prevents overflow*/
+  margin: 0;
+  overflow: hidden;
+}
+
+.mainHeading {
+  font-family: 'Dancing Script', cursive;
 }
