@@ -1,6 +1,27 @@
 @charset "UTF-8";
 /* Main CSS Document */
 
+body {
+  padding: 0px;
+  margin: 0px;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+  background-color: #E8E9EB
+}
+
+
+
+
+
+
+
+
+
+
+
 /* NAVIGATION: */
 /* Add a black background color to the top navigation */
 nav {
