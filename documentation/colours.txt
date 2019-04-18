@@ -1,4 +1,6 @@
 --NAV COLOURS--
 Main navbar background - black
 nav :hover colour - grey
-nav emphasis colour - #d9d9d9 
+nav emphasis colour - #d9d9d9
+
+main background colour - #E8E9EB
