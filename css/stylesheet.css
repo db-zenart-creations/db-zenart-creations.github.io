@@ -13,8 +13,7 @@ nav a {
   font-family: 'Dancing Script', cursive;
   float: left;
   display: block;
-  /* color: #577399; */
-  color: lime;
+  color: #F5F5F5;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -25,4 +24,8 @@ nav a {
 nav a:hover {
   background-color: grey;
   color: #E7DFDD;
+}
+
+.emphasis {
+  background-color: #d9d9d9;
 }
