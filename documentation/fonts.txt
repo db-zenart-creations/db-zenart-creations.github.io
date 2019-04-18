@@ -1,5 +1,11 @@
+--FONT NAMES --
 Dancing Script - Main titles
 
 Indie Flower - Block text
 
 Open Sans - Normal text
+
+
+--FONT COLOUR SCHEMES--
+
+Heading text - #F5F5F5 / White Smoke
