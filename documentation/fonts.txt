@@ -7,4 +7,4 @@ Open Sans - Normal text
 
 
 --FONT COLOUR SCHEMES--
-Heading text - #ffebef 
+Heading text - #ffd2db 
