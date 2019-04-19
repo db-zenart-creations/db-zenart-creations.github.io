@@ -61,6 +61,10 @@ nav a:hover {
   font-family: 'Dancing Script', cursive;
   font-size: 120px;
   color: #ffebef;
+
+  background-image: url("../img/banner.png");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .homeImg {
