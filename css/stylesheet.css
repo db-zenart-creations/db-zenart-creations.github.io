@@ -60,10 +60,18 @@ nav a:hover {
 .mainHeading {
   font-family: 'Dancing Script', cursive;
   font-size: 120px;
+  color: #ffebef;
 }
 
 .homeImg {
   background-color: none;
   padding: 0px 0px 0px 0px;
   border: 0px 0px 0px 0px;
+}
+
+.headingContainer {
+  margin: 0;
+  overflow: hidden;
+
+  background-image:
 }
