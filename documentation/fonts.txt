@@ -7,4 +7,4 @@ Open Sans - Normal text
 
 
 --FONT COLOUR SCHEMES--
-Heading text - #F5F5F5 / White Smoke
+Heading text - #ffebef 
