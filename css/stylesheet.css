@@ -77,3 +77,8 @@ nav a:hover {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.copyright {
+  font-family: 'Indie Flower', cursive;
+  color: #ffd2db;
+}
