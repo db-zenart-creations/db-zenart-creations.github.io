@@ -12,6 +12,10 @@ body {
   background-color: #E8E9EB
 }
 
+.text {
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 /* NAVIGATION: */
 /* Add a black background color to the top navigation */
