@@ -61,3 +61,8 @@ nav a:hover {
   font-family: 'Dancing Script', cursive;
   font-size: 120px;
 }
+
+.homeImg {
+  background-color: none;
+  padding: 0px 0px 0px 0px;
+}
