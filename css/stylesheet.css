@@ -17,7 +17,7 @@ footer {
 }
 
 .text {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -30,7 +30,7 @@ nav {
 
 /* Style the links inside the navigation bar */
 nav a {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Open Sans', sans-serif;
   float: left;
   display: block;
   color: #F5F5F5;
