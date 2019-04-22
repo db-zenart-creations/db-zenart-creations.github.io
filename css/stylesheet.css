@@ -10,6 +10,8 @@ body {
   background-size: cover;
 
   background-color: #E8E9EB
+
+  min-height: 100vh;
 }
 
 footer {
