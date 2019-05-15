@@ -49,8 +49,6 @@
       </div>
   </section>
 
-  <p>Test</p>
-
   <footer>
     <!-- Copyright: -->
     <p class="copyright">© Danijela Bodo as DB Zenart Creations - 2019 </p> <p class="creator">Designed and created by Michael Jordan as Mrmikeman38 - 2019</p>
