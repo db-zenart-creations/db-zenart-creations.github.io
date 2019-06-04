@@ -107,6 +107,6 @@ nav a:hover {
   text-decoration: none;
 }
 
-i {
+i:hover {
   color: white;
 }
